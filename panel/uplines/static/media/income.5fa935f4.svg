@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 45 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.479654948">
+        <g id="dashboard" transform="translate(-757.000000, -219.000000)" fill-rule="nonzero">
+            <g id="header-plus-menu">
+                <g id="top-section" transform="translate(420.000000, 168.000000)">
+                    <g id="top-dohod-section">
+                        <g id="eth" transform="translate(337.000000, 51.000000)">
+                            <polygon id="Path" fill="#CF564F" points="23.0140661 53.4417863 3 44 22.9959095 70 26 66.0935672 26 52.0287081"></polygon>
+                            <polygon id="Path" fill="#CF564F" points="22.4997306 0 0 40 45 40"></polygon>
+                            <polygon id="Path" fill="#CF564F" points="45 40 22 0 22 40"></polygon>
+                            <polygon id="Path" fill="#B93D34" points="22.9922456 29.0418946 22.9019026 29 0 40 0.0203821844 40 22.9222849 51 23.0126278 50.9581055 26 49.5326172 26 30.478125"></polygon>
+                            <polygon id="Path" fill="#CF564F" points="23.0172399 53.4529517 23 70 42 44"></polygon>
+                            <polygon id="Path" fill="#B93D34" points="43.9796733 40 21.0900971 29.0418946 21 29 21.0203269 51 21.1104238 50.9581055 44 40"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
